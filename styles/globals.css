@@ -191,8 +191,8 @@ span.text-red {
 
 .hero-banner-image {
   position: absolute;
-  top: 0%;
-  right: 20%;
+  top: 5%;
+  right: 0%;
   width: 450px;
   height: 450px;
 }
@@ -228,7 +228,6 @@ span.text-red {
   text-align: center;
   margin: 40px 0px;
   color: #324d67;
-
 }
 
 .products-heading h2 {
@@ -282,10 +281,12 @@ span.text-red {
 
 .footer-banner-image {
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -5%;
-  left: 17%;
+  top: -35%;
+  top: 5%;
+  right: 40%;
+  width: 450px;
+  height: 450px;
+ 
 }
 
 .banner-desc .right {
